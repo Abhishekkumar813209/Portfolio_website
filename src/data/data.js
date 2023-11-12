@@ -22,7 +22,7 @@ export const featuresData = [
     des: "Fluent With Node , Express and MongoDB and Rest APIs",
   },
   {
-    id: 4,
+    id: 6,
     icon: <FaMobile />,
     title: "Unit Testing",
     des: "Learning Unit Testing to ensure smooth running of my website",
@@ -34,9 +34,9 @@ export const featuresData = [
     des: "Learning Typescript to get errors during Runtime Only.",
   },
   {
-    id: 6,
+    id: 4,
     icon: <FaGlobe />,
-    title: "AWS",
-    des: "EC2 Instances , AWS VPC , AWS Lambda , AWS CFT , AWS S3",
+    title: "Javascript",
+    des: "Dom Manipulation , Browser Apis,Chrome Extensions,ES6,Functional Programming",
   },
 ];
