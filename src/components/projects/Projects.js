@@ -18,7 +18,7 @@ const Projects = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
           title="Jarvis(Voice Assistant)"
-          des="HomePage of BEATS WEBSITE not responsive only for medium sized screen"
+          des="Created a voice-activated assistant in JavaScript. Features greetings,web navigation, information retrieval, and real-time responses. Demonstrated skills in SpeechRecognition and Synthesis APIs. Enhanced user experience with personalized interactions"
           src={jarvis}
           link="https://merry-malabi-6340be.netlify.app/"
         />
@@ -27,30 +27,35 @@ const Projects = () => {
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={udemy}
+          link=""
         />
         <ProjectsCard
           title="Udemy Clone Backend"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={udemy}
+          link="https://razorpay-backend-zgwh.onrender.com"
         />
         <ProjectsCard
           title="React Chat App"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={chat}
+          link="https://chat-app-gilt-five.vercel.app/"
         />
         <ProjectsCard
           title="Razorpay Website"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={razorpay}
+          link="https://remarkable-flan-4bbf59.netlify.app"
         />
         <ProjectsCard
           title="Tic Tac Toe"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
           src={Tictac}
+          link="https://tic-tac-toe-murex-two.vercel.app/"
         />
       </div>
     </section>
