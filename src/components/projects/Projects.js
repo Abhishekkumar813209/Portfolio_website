@@ -1,6 +1,6 @@
 import React from 'react'
 import Title from '../layouts/Title'
-import { projectOne, projectTwo, projectThree } from "../../assets/index";
+import { jarvis,Tictac,udemy,razorpay,chat} from "../../assets/index";
 import ProjectsCard from './ProjectsCard';
 
 const Projects = () => {
@@ -19,31 +19,31 @@ const Projects = () => {
         <ProjectsCard
           title="Jarvis(Voice Assistant)"
           des="HomePage of BEATS WEBSITE not responsive only for medium sized screen"
-          src={projectOne}
+          src={jarvis}
         />
         <ProjectsCard
           title="Udemy Clone Frontend"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectTwo}
+          src={udemy}
         />
         <ProjectsCard
           title="Udemy Clone Backend"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
+          src={udemy}
         />
         <ProjectsCard
           title="React Chat App"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectThree}
+          src={chat}
         />
         <ProjectsCard
           title="Razorpay Website"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectOne}
+          src={razorpay}
         />
         <ProjectsCard
           title="Chatting App"

@@ -10,6 +10,11 @@ import meta from './images/testmonial/meta.jpg';
 import bezos from './images/testmonial/bezos.jpg';
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
+import jarvis from "./images/projects/Jarvis.png"
+import Tictac from "./images/projects/TicTac.png"
+import udemy from "./images/projects/Udemy.png"
+import razorpay from "./images/projects/Razorpay.png"
+import chat from "./images/projects/Chatapp.png"
 
 export {
   logo,
@@ -23,5 +28,10 @@ export {
   contactImg,
   meta,
   bezos,
-  musk
+  musk,
+  jarvis,
+  Tictac,
+  chat,
+  udemy,
+  razorpay
 };
