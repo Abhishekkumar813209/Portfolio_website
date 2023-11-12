@@ -46,10 +46,10 @@ const Projects = () => {
           src={razorpay}
         />
         <ProjectsCard
-          title="Chatting App"
+          title="Tic Tac Toe"
           des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
               Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
-          src={projectTwo}
+          src={Tictac}
         />
       </div>
     </section>
