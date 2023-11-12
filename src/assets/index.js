@@ -15,6 +15,7 @@ import Tictac from "./images/projects/TicTac.png"
 import udemy from "./images/projects/Udemy.png"
 import razorpay from "./images/projects/Razorpay.png"
 import chat from "./images/projects/Chatapp.png"
+import atom from "./images/atom.gif"
 
 export {
   logo,
@@ -33,5 +34,6 @@ export {
   Tictac,
   chat,
   udemy,
-  razorpay
+  razorpay,
+  atom
 };
