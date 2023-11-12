@@ -26,7 +26,7 @@ const Projects = () => {
           title="Udemy Clone Frontend"
           des="Leveraged React with Chakra Ui for Responsive web Design and Redux Toolkit Query for efficient state management and axios data fetching in a dynamic e-learning platform, ensuring seamless user experiences in a concise and scalable codebase."
           src={udemy}
-          link=""
+          link="https://wonderful-kulfi-628471.netlify.app/"
         />
         <ProjectsCard
           title="Udemy Clone Backend"
