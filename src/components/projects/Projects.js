@@ -17,7 +17,7 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="Jarvis(Voice Assistant website)"
+          title="Jarvis(Voice Assistant)"
           des="HomePage of BEATS WEBSITE not responsive only for medium sized screen"
           src={projectOne}
         />
