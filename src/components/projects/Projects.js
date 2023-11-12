@@ -24,36 +24,31 @@ const Projects = () => {
         />
         <ProjectsCard
           title="Udemy Clone Frontend"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Leveraged React with Chakra Ui for Responsive web Design and Redux Toolkit Query for efficient state management and axios data fetching in a dynamic e-learning platform, ensuring seamless user experiences in a concise and scalable codebase."
           src={udemy}
           link=""
         />
         <ProjectsCard
           title="Udemy Clone Backend"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Developed robust e-learning platform with Mern stack. Features course management, user auth, real-time updates, and admin controls. Integrated Cloudinary, asynchronous error handling, and razorpay payment. A massive project with extensive functionalities."
           src={udemy}
           link="https://razorpay-backend-zgwh.onrender.com"
         />
         <ProjectsCard
           title="React Chat App"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Developed a real-time chat app with React and Firebase, featuring Google authentication, message storage and logout Functionality, and dynamic UI updates. Utilized Chakra UI for a sleek interface."
           src={chat}
           link="https://chat-app-gilt-five.vercel.app/"
         />
         <ProjectsCard
           title="Razorpay Website"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Integrated Razorpay in MERN stack project for product purchases. Backend on Render.com, frontend on Netlify. Live demo: Below. Accepts payments using Razorpay payment gateway , Try to use demo debit card numbers from razorpay test card website"
           src={razorpay}
           link="https://remarkable-flan-4bbf59.netlify.app"
         />
         <ProjectsCard
           title="Tic Tac Toe"
-          des=" Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!"
+          des="Built a React Tic-Tac-Toe game with a responsive board, state management, winning logic, and play-again feature. Modular components, like squares and player cards, elevate the UI, complemented by customizable icons for a visually engaging"
           src={Tictac}
           link="https://tic-tac-toe-murex-two.vercel.app/"
         />
