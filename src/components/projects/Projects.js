@@ -20,6 +20,7 @@ const Projects = () => {
           title="Jarvis(Voice Assistant)"
           des="HomePage of BEATS WEBSITE not responsive only for medium sized screen"
           src={jarvis}
+          link="https://merry-malabi-6340be.netlify.app/"
         />
         <ProjectsCard
           title="Udemy Clone Frontend"
